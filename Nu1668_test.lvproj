@@ -12,11 +12,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="ADB log catch.vi" Type="VI" URL="../ADB log catch.vi"/>
+		<Item Name="Buttons.vi" Type="VI" URL="../Buttons.vi"/>
 		<Item Name="FT6301A_set load.vi" Type="VI" URL="../FT6301A_set load.vi"/>
 		<Item Name="hello world.vi" Type="VI" URL="../hello world.vi"/>
 		<Item Name="I2C_read.vi" Type="VI" URL="../I2C_read.vi"/>
 		<Item Name="Inst_Initial.vi" Type="VI" URL="../Inst_Initial.vi"/>
 		<Item Name="IT6932A_set voltage current.vi" Type="VI" URL="../IT6932A_set voltage current.vi"/>
+		<Item Name="load regulation.vi" Type="VI" URL="../load regulation.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Uart log catch.vi" Type="VI" URL="../Uart log catch.vi"/>
