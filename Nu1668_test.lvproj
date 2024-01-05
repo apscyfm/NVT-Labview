@@ -19,6 +19,7 @@
 		<Item Name="hello world.vi" Type="VI" URL="../hello world.vi"/>
 		<Item Name="I2C_read.vi" Type="VI" URL="../I2C_read.vi"/>
 		<Item Name="Inst_Initial.vi" Type="VI" URL="../Inst_Initial.vi"/>
+		<Item Name="IT6932A.lvclass" Type="LVClass" URL="../IT6932A/IT6932A.lvclass"/>
 		<Item Name="IT6932A_set voltage current.vi" Type="VI" URL="../IT6932A_set voltage current.vi"/>
 		<Item Name="load regulation.vi" Type="VI" URL="../load regulation.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
