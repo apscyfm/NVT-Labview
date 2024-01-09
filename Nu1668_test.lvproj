@@ -18,6 +18,7 @@
 		<Item Name="Graph_draw.vi" Type="VI" URL="../Graph_draw.vi"/>
 		<Item Name="hello world.vi" Type="VI" URL="../hello world.vi"/>
 		<Item Name="I2C_read.vi" Type="VI" URL="../I2C_read.vi"/>
+		<Item Name="input_control.vi" Type="VI" URL="../input_control.vi"/>
 		<Item Name="Inst_Initial.vi" Type="VI" URL="../Inst_Initial.vi"/>
 		<Item Name="IT6932A.lvclass" Type="LVClass" URL="../IT6932A/IT6932A.lvclass"/>
 		<Item Name="IT6932A_set voltage current.vi" Type="VI" URL="../IT6932A_set voltage current.vi"/>
@@ -34,6 +35,7 @@
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
+				<Item Name="Normalize End Of Line.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Normalize End Of Line.vi"/>
 				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
 				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Read Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (I64).vi"/>
